@@ -1,0 +1,45 @@
+{
+	"schemaVersion": 1,
+	"id": "horrorsmp",
+	"version": "0.0.1",
+	"name": "Horror SMP",
+	"description": "The Horror SMP",
+	"authors": [
+		"PrangellPlays",
+		"PlasmythicStudios"
+	],
+	"contact": {
+		"Website": "https://plasmythicstudios.github.io",
+		"Discord": "https://discord.gg/KREK6TBwaV",
+		"Github": "https://github.com/PlasmythicStudios/PlasmasOrigin"
+	},
+	"license": "LICENSE",
+	"icon": "assets/horrorsmp/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.prangellplays.horrorsmp.HorrorSMP"
+		],
+		"client": [
+			"net.prangellplays.horrorsmp.HorrorSMPClient"
+		],
+		"fabric-datagen": [
+			"net.prangellplays.horrorsmp.HorrorSMPDataGenerator"
+		],
+		"rei_client": [
+			"net.prangellplays.horrorsmp.compat.HorrorSMPREIClientPlugin"
+		]
+	},
+	"mixins": [
+		"horrorsmp.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

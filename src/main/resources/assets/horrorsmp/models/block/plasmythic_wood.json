@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "horrorsmp:block/plasmythic_log",
+    "side": "horrorsmp:block/plasmythic_log"
+  }
+}

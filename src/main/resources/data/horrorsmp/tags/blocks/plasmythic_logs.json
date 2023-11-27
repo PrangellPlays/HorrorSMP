@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "horrorsmp:plasmythic_log",
+    "horrorsmp:plasmythic_wood",
+    "horrorsmp:stripped_plasmythic_log",
+    "horrorsmp:stripped_plasmythic_wood"
+  ]
+}

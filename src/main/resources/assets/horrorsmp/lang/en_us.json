@@ -1,0 +1,23 @@
+{
+  "item.horrorsmp.thermostatic_steel_scythe": "§5Thermostatic Steel Scythe",
+  "item.horrorsmp.plasmythic_scythe": "§5Plasmythic Scythe",
+  "item.horrorsmp.refined_plasmythic_scythe": "§5Refined Plasmythic Scythe",
+  "item.horrorsmp.potato_blade": "§6Potato Scimitar",
+  "item.horrorsmp.potato_sword": "§6Potato Blade",
+  "item.horrorsmp.potato_long_sword": "§6Potato Long Sword",
+  "item.horrorsmp.code_blade": "§200100001",
+  "item.horrorsmp.cpv2": "§2CPV2",
+  "item.horrorsmp.thermostatic_steel": "Thermostatic Steel",
+
+  "block.horrorsmp.plasmythic_leaves": "Plasmythic Leaves",
+  "block.horrorsmp.plasmythic_planks": "Plasmythic Planks",
+  "block.horrorsmp.plasmythic_log": "Plasmythic Log",
+  "block.horrorsmp.plasmythic_wood": "Plasmythic Wood",
+  "block.horrorsmp.stripped_plasmythic_log": "Stripped Plasmythic Log",
+  "block.horrorsmp.stripped_plasmythic_wood": "Stripped Plasmythic Wood",
+  "block.horrorsmp.plasmythic_sapling": "Plasmythic Sapling",
+
+  "effect.horrorsmp.cpv2": "CPV2",
+  "effect.horrorsmp.bleed": "Bleed",
+  "effect.horrorsmp.burn": "Burn"
+}
